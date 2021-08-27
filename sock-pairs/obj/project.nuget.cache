@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fryT6gvkJBjVEzmssoZGWa3AtXDT3OnLflEnDOhwJHFbnl51sk+HUDib3P3MEA/QPvvUDj7GaqMDq3YOO4D4A==",
+  "success": true,
+  "projectFilePath": "/home/mfaqiri/po-weekly/week-3/sock-pairs/sock-pairs.csproj",
+  "expectedPackageFiles": [
+    "/home/mfaqiri/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
